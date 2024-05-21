@@ -141,7 +141,7 @@ export default function AboutSection() {
             <div className="mt-4 text-left flex flex-col h-full">
                 <h2 className="text-4xl font-bold text-black mb-4">About Me</h2>
                 <p className="text-lg text-black">
-                I'm Panus Pimkote (Kem), a first-year student at CEDT Chula,<br/>
+                I&apos;m Panus Pimkote (Kem), a first-year student at CEDT Chula,<br/>
                 currently interning in Backend Engineer at Krungthai Bank.<br/>
                 </p>
                 <div className="flex flex-row mt-4">

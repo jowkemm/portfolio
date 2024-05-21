@@ -14,9 +14,9 @@ export default function IntroSection() {
         <section>
             <div className="flex justify-center">
                 <div className="mr-8 content-center">
-                    <h1 className="text-black mb-4 text-4xl font-extrabold">Hi, I'm JowKem</h1>
+                    <h1 className="text-black mb-4 text-4xl font-extrabold">Hi, I&apos;m JowKem</h1>
                     <p className="text-black text-lg" style={{ whiteSpace: 'pre-line' }}>
-                        I'm a first-year student at CEDT, Chulalongkorn University.<br/>
+                        I&apos;m a first-year student at CEDT, Chulalongkorn University.<br/>
                         I love learning new things and passionate in Backend Development.
                     </p>
                     <div>
